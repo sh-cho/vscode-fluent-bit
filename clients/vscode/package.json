@@ -98,7 +98,7 @@
     "@types/node": "^20.14.14",
     "@types/vscode": "~1.78.1",
     "@vscode/vsce": "^2.31.1",
-    "esbuild": "^0.23.0",
+    "esbuild": "^0.25.0",
     "ovsx": "^0.9.2",
     "tslib": "^2.6.3",
     "typescript": "^5.5.4"
