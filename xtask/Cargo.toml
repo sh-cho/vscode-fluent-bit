@@ -17,6 +17,6 @@ convert_case.workspace = true
 clap = { version = "4.5.13", features = ["derive"] }
 flate2 = "1.0.31"
 time = "0.3.36"
-zip = "2.1.6"
+zip = "2.3.0"
 once_cell = "1.19.0"
 csv = "1.3.0"
